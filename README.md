@@ -13,16 +13,13 @@
 
 <p align="center">
   <a href="mailto:abdullahnoorllc@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-abdullahnoorllc%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-111827?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/abdullah-noor1/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdullah%20Noor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/anoor3?tab=repositories">
-    <img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Repos-anoor3-0D1117?style=for-the-badge&logo=repo&logoColor=white">
-  </a>
-  <a href="https://strokix.com">
-    <img alt="STROKIX" src="https://img.shields.io/badge/STROKIX-Live%20Product-111827?style=for-the-badge&logo=vercel&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -140,48 +137,29 @@
 
   <h3>Languages</h3>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat&logo=python&logoColor=white">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
-    <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?style=flat&logo=swift&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=flat&logo=cplusplus&logoColor=white">
-    <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=py,ts,js,swift,cpp,html,css&theme=dark">
   </p>
 
   <h3>Frontend</h3>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=flat&logo=react&logoColor=61DAFB">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4.svg?style=flat&logo=tailwindcss&logoColor=white">
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?style=flat&logo=vite&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white">
+    <img alt="Frontend tools" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark">
   </p>
 
   <h3>Backend, Data, and Infrastructure</h3>
   <p>
-    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=fastapi&logoColor=white">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?style=flat&logo=nodedotjs&logoColor=white">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat&logo=postgresql&logoColor=white">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=flat&logo=supabase&logoColor=black">
-    <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=redis&logoColor=white">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=docker&logoColor=white">
-    <img alt="Fly.io" src="https://img.shields.io/badge/Fly.io-7B3FF2.svg?style=flat&logo=flydotio&logoColor=white">
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white">
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?style=flat&logo=githubactions&logoColor=white">
+    <img alt="Backend and infrastructure tools" src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,supabase,redis,docker,vercel,githubactions,git&theme=dark">
   </p>
 
   <h3>AI and Security</h3>
   <p>
-    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?style=flat&logo=openai&logoColor=white">
-    <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757.svg?style=flat&logo=anthropic&logoColor=white">
-    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-111827.svg?style=flat">
-    <img alt="RAG" src="https://img.shields.io/badge/RAG-111827.svg?style=flat">
-    <img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791.svg?style=flat&logo=postgresql&logoColor=white">
-    <img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth%202.0-111827.svg?style=flat">
-    <img alt="AES-256-GCM" src="https://img.shields.io/badge/AES--256--GCM-111827.svg?style=flat">
-    <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?style=flat&logo=jsonwebtokens&logoColor=white">
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-111827.svg?style=for-the-badge&logo=openai&logoColor=white">
+    <img alt="Claude" src="https://img.shields.io/badge/Claude-111827.svg?style=for-the-badge&logo=anthropic&logoColor=white">
+    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-111827.svg?style=for-the-badge">
+    <img alt="RAG" src="https://img.shields.io/badge/RAG-111827.svg?style=for-the-badge">
+    <img alt="pgvector" src="https://img.shields.io/badge/pgvector-111827.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="OAuth 2.0" src="https://img.shields.io/badge/OAuth%202.0-111827.svg?style=for-the-badge">
+    <img alt="AES-256-GCM" src="https://img.shields.io/badge/AES--256--GCM-111827.svg?style=for-the-badge">
+    <img alt="JWT" src="https://img.shields.io/badge/JWT-111827.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   </p>
 </details>
 
